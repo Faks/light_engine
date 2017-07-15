@@ -1,5 +1,5 @@
 ﻿<?php
-@$mysql = mysql_connect('localhost','Faks','hakerx37');
+@$mysql = mysql_connect('localhost','myuser','mypw');
 if (!$mysql)
 {
 	die('<span style=color:red><center>Mysql Server having issues,please wait until server god resolves it</center></span>');
