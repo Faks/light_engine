@@ -133,15 +133,15 @@
 //------------------------------------------------------------------------------------------------------------+
 //[ STAND-ALONE VERSION - ADMIN DETAILS ]
 
-  $lgsl_config['admin']['user'] = "Faks";
-  $lgsl_config['admin']['pass'] = "hakerx80";
+  $lgsl_config['admin']['user'] = "myuser";
+  $lgsl_config['admin']['pass'] = "mypw";
 
 //------------------------------------------------------------------------------------------------------------+
 //[ STAND-ALONE VERSION DATABASE SETTINGS - MAINLY USED FOR THE STAND-ALONE VERSION ]
 
   $lgsl_config['db']['server'] = "127.0.0.1";
-  $lgsl_config['db']['user']   = "Faks";
-  $lgsl_config['db']['pass']   = "hakerx37";
+  $lgsl_config['db']['user']   = "myuser";
+  $lgsl_config['db']['pass']   = "mypw";
   $lgsl_config['db']['db']     = "hosting";
   $lgsl_config['db']['table']  = "lgsl";
 
