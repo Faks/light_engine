@@ -1,0 +1,1 @@
+﻿<meta http-equiv='REFRESH' content='0;url=http://gaming.flushsolutions.info/'>
